@@ -1,0 +1,30 @@
+brand,model,price(£),year,availability
+Ford,Focus,22000.0,2017,Sold Out
+Honda, Civic,25000.0,2020,Sold Out
+Skoda,Octavia,26000.0,2019,Sold Out
+Nissan, Qashqai,28500.0,2021,Sold Out
+Toyota, Camry,32000.0,2022,Sold Out
+Audi, A4,38000.0,2019,Available
+Subaru, WRX STI,40000.0,2020,Sold Out
+Kia, EV6,42000.0,2022,Sold Out
+Jaguar, XF,42000.0,2020,Sold Out
+KIA,EV6,42000.0,2022,Available
+Mercedes, C-Class,42500.0,2021,Available
+Ford, Mustang,45000.0,2021,Sold Out
+Hyundai, Ioniq 5,45000.0,2023,Available
+Tesla, Model 3,48000.0,2023,Available
+BMW, 5 Series,50000.0,2020,Available
+Polestar, 2,50000.0,2023,Available
+Volvo, XC60,52000.0,2023,Available
+Maserati, Ghibli,65000.0,2021,Available
+Dodge, Challenger Hellcat,70000.0,2022,Available
+Rivian, R1T,75000.0,2023,Available
+Lexus, LS 500,75000.0,2021,Available
+Lucid, Air,80000.0,2022,Sold Out
+Chevrolet, Corvette,85000.0,2023,Available
+Land Rover, Range Rover,90000.0,2023,Available
+Porsche, 911,95000.0,2022,Available
+Bentley, Continental GT,180000.0,2022,Available
+Lamborghini, Huracan,200000.0,2022,Sold Out
+Ferrari, 488 GTB,220000.0,2019,Sold Out
+Rolls-Royce, Phantom,350000.0,2023,Available
